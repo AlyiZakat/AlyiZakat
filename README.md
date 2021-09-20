@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**AlyiZakat/AlyiZakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a beginner BackEnd Developer
+
+
+
+### Languages and Tools:
+
+
+<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/63130155/134037082-9e9903f6-149f-44f7-a6cb-480371a0e4de.png" />
+<img align="left" alt="HTML5" width="26px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
